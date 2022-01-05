@@ -1,0 +1,20 @@
+.app{
+    text-align: center
+}
+.navi{
+    display: flex;
+    column-gap: 10px
+}
+.navibg{    
+    background-color: grey
+}
+.userform{
+    border:solid royalblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;    
+}
+.userformlabel{
+    padding: 10px;
+    margin: 10px
+}
